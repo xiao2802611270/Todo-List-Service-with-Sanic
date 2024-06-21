@@ -5,4 +5,4 @@
 - sanic  23.12.1
 - SQLAlchemy 2.0
 # 使用方法
-运行run.py
+运行run.py文件，默认为本地端口8000，可以前往src/main/config/config.py下更改SERVER_HOST，SERVER_PORT参数。
